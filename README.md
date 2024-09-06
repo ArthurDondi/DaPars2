@@ -38,7 +38,7 @@ Dapars2_LR_merge.py -o Dapars2_LR_all_chr.txt
 ## Citation
 
 *Please cite the following articles if you use DaPars2_LR in your research*
-* Dondi, A. et al. Detection of isoforms and genomic alterations by high-throughput full-length single-cell RNA sequencing in ovarian cancer. BioRxiv (2022) doi:110.1101/2022.12.12.520051.
+* Dondi, A. et al. Detection of isoforms and genomic alterations by high-throughput full-length single-cell RNA sequencing in ovarian cancer. NatCom (2023) [doi:110.1101/2022.12.12.520051.](https://doi.org/10.1038/s41467-023-43387-9)
 
 *Please cite the following articles if you use DaPars2 in your research*:
 * Feng X, Li L, Wagner EJ, Li W; TC3A: The Cancer 3′ UTR Atlas, Nucleic Acids Research, Volume 46, Issue D1, 4 January 2018, Pages D1027–D1030
@@ -46,4 +46,4 @@ Dapars2_LR_merge.py -o Dapars2_LR_all_chr.txt
 
 ## Contact
 
-If you have any comments, suggestions, questions, bug reports, etc, feel free to contact Arthur Dondi (arthur.dondi@gmail.com). And PLEASE attach your command line and log messages if possible.
+If you have any comments, suggestions, questions, bug reports, etc, feel free to contact Arthur Dondi (arthur.dondi@gmail.com). Please attach your command line and log messages if possible.
