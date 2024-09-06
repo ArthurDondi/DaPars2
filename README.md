@@ -23,7 +23,7 @@ The dynamic usage of the 3’untranslated region (3’UTR) resulting from altern
 
 DaPars2_LR can be used just as DaPars2 (a [Full Documentations](https://github.com/3UTR/DaPars2/wiki) of the original DaPars2 can be found in Wiki page), just use `DaPars2_LR_Two_Samples_Multi_Chr.py` instead of `DaPars2_Multi_Samples_Multi_Chr.py`. **DaPars2_LR only accepts two-samples comparisons**.
 
-DaPars2_LR uses a different breakpoint detection method, described in our [publication](https://www.biorxiv.org/content/10.1101/2022.12.12.520051v3).
+DaPars2_LR uses a different breakpoint detection method, described in our [publication](https://doi.org/10.1038/s41467-023-43387-9).
 
 Additionally, between step 1 and 2 of the [wiki](https://github.com/3UTR/DaPars2/wiki), DaPars2_LR offers to filter 3'UTR overlapping with a different gene, as they can create false positives:
 ```
